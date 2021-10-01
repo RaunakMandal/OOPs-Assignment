@@ -1,4 +1,4 @@
-package inheritance.isa;
+
 
 class Abacus{
 	void work() {

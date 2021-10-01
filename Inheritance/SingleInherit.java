@@ -1,4 +1,3 @@
-package inheritance.isa;
 
 class Man{
 	void work() {
