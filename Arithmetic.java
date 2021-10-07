@@ -5,9 +5,7 @@ class Arithmetic {
 	double subtract(double no1, double no2){return no1 - no2;};
 	double multiply(double no1, double no2){return no1 * no2;};
 	double divide(double no1, double no2){return no1 / no2;};
-}	
 
-class Maths {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
